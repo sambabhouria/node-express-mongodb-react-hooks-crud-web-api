@@ -1,8 +1,4 @@
 import React, { useState } from "react";
-import { makeStyles } from '@material-ui/core/styles';
-import Button from '@material-ui/core/Button';
-import DeleteIcon from '@material-ui/icons/Delete';
-import Icon from '@material-ui/core/Icon';
 
 import TutorialDataService from "../services/TutorialService";
 
